@@ -99,6 +99,6 @@
   },
   "gitHead": "36d489545d0a4e3b83af8650bdb9881a251fa777",
   "dependencies": {
-    "framer-motion": "^6.5.1"
+    "framer-motion": "^12.23.0"
   }
 }
